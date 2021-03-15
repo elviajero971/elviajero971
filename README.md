@@ -1,18 +1,22 @@
 ### Hello everybody
 
+# My personal website nomadev.fun
+
 ## What am I looking for ?
 ---
-# My current stack
+### My current stack
+
+
 -----
-# 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 ---
-# 🎒 I’m currently learning ...
+### 🎒 I’m currently learning ...
 ---
-# 👯 I’m looking to collaborate on ...
+### 👯 I’m looking to collaborate on ...
 ---
-# 💬 Ask me about 
-# 📫 Keep in touch: 
-# ⚡ Fun fact: living 12 years on ⛵ in the Caribbean | 3 years 🎒 around 🌎 
+### 💬 Ask me about 
+### 📫 How to contact me: 
+### ⚡ Fun fact: living 12 years on ⛵ in the Caribbean | 3 years 🎒 around 🌎 
 
 - 
 
