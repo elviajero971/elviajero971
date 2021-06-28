@@ -1,11 +1,12 @@
 ### Hello everybody
 
-# My personal website nomadev.fun
+# My personal website https://www.nomadev.fun (still under construction)
 
 ## What am I looking for ?
 ---
 ### My current stack
 
+Since More than a year now, I've been working with Ruby On Rails / PostgreSQL (just finished a 2 months
 
 -----
 ### 🔭 I’m currently working on ...
@@ -14,8 +15,9 @@
 ---
 ### 👯 I’m looking to collaborate on ...
 ---
-### 💬 Ask me about 
-### 📫 How to contact me: 
+Open source projects with NodeJS / React / Rails
+### 📫 How to contact me: lucas.illiano@hotmail.com
+---
 ### ⚡ Fun fact: living 12 years on ⛵ in the Caribbean | 3 years 🎒 around 🌎 
 
 - 
