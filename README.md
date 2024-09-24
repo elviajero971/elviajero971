@@ -1,6 +1,6 @@
 ### Hello everybody
 
-# My personal website https://www.nomadev.fun (still under construction)
+# My personal website https://www.nomadev.online (still under construction)
 
 ## What am I looking for ?
 ---
