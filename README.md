@@ -6,7 +6,7 @@
 ---
 ### My current stack
 
-Since More than a year now, I've been working with Ruby On Rails / PostgreSQL (just finished a 2 months
+Since More than three years now, I've been working with Ruby On Rails / PostgreSQL / REACTjs
 
 -----
 ### 🔭 I’m currently working on ...
